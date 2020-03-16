@@ -1,0 +1,26 @@
+{
+  "name": "V-1.0",
+  "version": "1.0.0",
+  "description": "crm",
+  "main": "index.html",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "server": {
+    "baseDir": "./index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliraassistant/design.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliraassistant/design/issues"
+  },
+  "homepage": "https://github.com/aliraassistant/design#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
