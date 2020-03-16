@@ -4,11 +4,9 @@
   "description": "crm",
   "main": "index.html",
   "scripts": {
-    "start": "lite-server"
+     "start": "lite-server"
   },
-  "server": {
-    "baseDir": "./index"
-  },
+  "server": {  "baseDir": "./index"},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/aliraassistant/design.git"
